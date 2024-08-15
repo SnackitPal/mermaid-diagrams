@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Suspected Bacterial Meningitis or Meningococcal Disease]
     A --> B{Assess Symptoms and Risk Factors}
